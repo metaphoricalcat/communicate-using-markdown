@@ -6,3 +6,8 @@
 ###### Header 6
 
 ![Image of bewitchedtocat](https://octodex.github.com/images/bewitchedtocat.jpg)
+
+```js
+const foo = "bar";
+console.log(foo);
+```
